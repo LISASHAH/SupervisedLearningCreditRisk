@@ -2,7 +2,7 @@
 This project is to recomend a model for the credit risk using supervised machine learning.
 Files included in this are: credit_risk_ensemble.ipynb & credit_risk_resampling.ipynb
 
-##Analysis
+## Analysis
 Describes the precision and recall scores. 
 Precision,  out of a group how many members that are out of total positives are true positives. The higher this score is better the model. Scores in the chart below Formula for Precision = TP/(TP + FP)
 
